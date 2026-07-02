@@ -207,7 +207,7 @@ http://localhost:8501
 **Prashant Kadu**
 
 - GitHub: https://github.com/prashantkadu25
-- LinkedIn: *https://www.linkedin.com/prashant-kadu9966*
+- LinkedIn: *https://www.linkedin.com/in/prashant-kadu9966*
 
 ---
 
